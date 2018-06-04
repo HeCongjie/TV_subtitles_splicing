@@ -1,0 +1,8 @@
+滚动字幕
+.\Sample1\016660.jpg .\Sample1\016908.jpg 172 520 528 50
+.\Sample2\016660.jpg .\Sample2\016840.jpg 150 433 464 23
+
+静态字幕
+.\Sample2\016660.jpg .\Sample2\016770.jpg 89 378 462 21
+.\Sample2\016660.jpg .\Sample2\016770.jpg 100 405 445 20
+
